@@ -1,4 +1,4 @@
-package com.jiuGHim.singleTon;
+package com.jiuGHim.SingleTon;
 
 /**
  * 静态内部类单例模式

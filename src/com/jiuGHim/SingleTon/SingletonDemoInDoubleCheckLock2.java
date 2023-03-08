@@ -1,4 +1,4 @@
-package com.jiuGHim.singleTon;
+package com.jiuGHim.SingleTon;
 
 /**
  * description: SingletonDemoInDoubleCheckLock2

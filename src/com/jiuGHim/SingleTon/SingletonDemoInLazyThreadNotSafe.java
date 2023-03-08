@@ -1,4 +1,4 @@
-package com.jiuGHim.singleTon;
+package com.jiuGHim.SingleTon;
 
 /**
  * 线程不安全懒汉单例模式

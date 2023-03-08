@@ -1,4 +1,4 @@
-package com.jiuGHim.singleTon;
+package com.jiuGHim.SingleTon;
 
 /**
  * 饿汉单例模式
